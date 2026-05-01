@@ -28,8 +28,6 @@
 - 🔗 REST и SOAP (15 ч)
 - 📊 Работа с логами (6 ч)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanishID&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
-
 ## 📌 Мои проекты
 
 ### 🔍 [JSON Validator & Beautifier Bot](https://github.com/VanishID/tg_TestBuddyBot)
@@ -62,3 +60,10 @@ Telegram-бот для проверки и форматирования JSON. П
 [![Telegram](https://img.shields.io/badge/Telegram-@IvanD_QA-blue?style=for-the-badge&logo=telegram)](https://t.me/IvanD_QA)
 [![Email](https://img.shields.io/badge/Email-deputatovivan272%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:deputatovivan272@gmail.com)
 [![Сайт](https://img.shields.io/badge/Сайт-vanishid.github.io-6C3BFF?style=for-the-badge&logo=google-chrome)](https://vanishid.github.io)
+
+---
+
+## 📊 GitHub Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanishID&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanishID&layout=compact&theme=transparent&hide_border=true&langs_count=6)
