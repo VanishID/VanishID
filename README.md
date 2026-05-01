@@ -9,8 +9,30 @@
 ---
 
 ## 🛠️ Ключевые навыки
-`Ручное тестирование` `REST API` `SOAP` `Postman` `SQL` `NoSQL` `Kafka` `Kibana` `Sentry` `Grafana` `Firebase` `Jaeger` `Cypress` `WireMock` `Docker` `Charles` `Swagger` `Pytest` `GitLab` `HTML` `CSS` `JavaScript` `Python`
 
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6C3BFF?style=flat&logo=testing-library&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=rest&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-005571?style=flat&logo=soap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat&logo=jaeger&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-0769AD?style=flat&logo=wiremock&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Charles](https://img.shields.io/badge/Charles-00ADD8?style=flat&logo=charles&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ---
 
 ## 📌 Мои проекты
