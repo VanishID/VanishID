@@ -28,6 +28,8 @@
 - 🔗 REST и SOAP (15 ч)
 - 📊 Работа с логами (6 ч)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanishID&theme=radical)
+
 ## 📌 Мои проекты
 
 ### 🔍 [JSON Validator & Beautifier Bot](https://github.com/VanishID/tg_TestBuddyBot)
