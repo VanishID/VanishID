@@ -8,7 +8,7 @@
 
 ---
 
-🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🔥 Firebase | 🕵️ Jaeger | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 📋 Swagger | 🧪 Pytest | 🦊 GitLab | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python
+🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 📋 Swagger | 🧪 Pytest | 🦊 GitLab | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text
 
 ## 📜 Сертификация
 
