@@ -62,5 +62,3 @@ Telegram-бот для проверки и форматирования JSON. П
 [![Сайт](https://img.shields.io/badge/Сайт-vanishid.github.io-6C3BFF?style=for-the-badge&logo=google-chrome)](https://vanishid.github.io)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanishID&show_icons=true&theme=radical&include_all_commits=true)
