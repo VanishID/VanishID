@@ -9,6 +9,25 @@
 ---
 
 🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🔥 Firebase | 🕵️ Jaeger | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 📋 Swagger | 🧪 Pytest | 🦊 GitLab | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python
+
+## 📜 Сертификация
+
+**QA Studio – Базовый курс по Quality Assurance (139 часов)**
+
+![Сертификат](https://github.com/user-attachments/assets/ваша-ссылка-на-картинку)
+
+Пройденные модули:
+- 🏗️ Клиент-серверная архитектура (15 ч)
+- 🌐 Тестирование веб-приложений (12 ч)
+- ⚙️ Backend-тестирование (18 ч)
+- 📡 Снифферы и отладка прокси (10 ч)
+- 🧪 Виды тестирования и техники тест-дизайна (10 ч)
+- 📝 Тестовая документация (22 ч)
+- 🗄️ SQL и работа с базами данных (15 ч)
+- 🧱 Основы HTML и CSS (16 ч)
+- 🔗 REST и SOAP (15 ч)
+- 📊 Работа с логами (6 ч)
+
 ## 📌 Мои проекты
 
 ### 🔍 [JSON Validator & Beautifier Bot](https://github.com/VanishID/tg_TestBuddyBot)
