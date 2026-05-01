@@ -6,6 +6,7 @@
 [![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/IvanD_QA)
 [![Email](https://img.shields.io/badge/📧-Почта-EA4335?style=flat&logo=gmail)](mailto:deputatovivan272@gmail.com)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanishID&theme=radical)
 ---
 
 🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text
@@ -27,8 +28,6 @@
 - 🧱 Основы HTML и CSS (16 ч)
 - 🔗 REST и SOAP (15 ч)
 - 📊 Работа с логами (6 ч)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanishID&theme=radical)
 
 ## 📌 Мои проекты
 
