@@ -63,7 +63,4 @@ Telegram-бот для проверки и форматирования JSON. П
 
 ---
 
-## 📊 GitHub Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanishID&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanishID&layout=compact&theme=transparent&hide_border=true&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanishID&show_icons=true&theme=radical&include_all_commits=true)
