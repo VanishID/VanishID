@@ -1,6 +1,6 @@
 # 👋 Привет! Я Иван Депутатов
 
-**Ручной тестировщик (Manual QA) | Изучаю автоматизацию, Python и пишу Telegram-ботов**
+**Ручной тестировщик (Manual QA) | Изучаю автоматизацию, Python и Telegram-ботов**
 
 [![Сайт](https://img.shields.io/badge/🌐-Сайт--визитка-6C3BFF?style=flat)](https://vanishid.github.io)
 [![Telegram](https://img.shields.io/badge/✉️-Написать-26A5E4?style=flat&logo=telegram)](https://t.me/IvanD_QA)
