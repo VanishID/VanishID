@@ -9,7 +9,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanishID&theme=radical)
 ---
 
-🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text
+🔍 Ручное тестирование | 🌐 REST API | 📬 SOAP | ⚛️ GraphQL | ⚡ gRPC | 🔌 WebSocket | 🚀 Postman | 🗄️ SQL | 🍃 NoSQL | 📨 Kafka | 📊 Kibana | 🐞 Sentry | 📈 Grafana | 🌲 Cypress | 🧰 WireMock | 🐳 Docker | 🔍 Charles | 🛠️ DevTools | 📋 Swagger | 🧪 Pytest | 🦊 GitLab CI/CD | 🧱 HTML | 🎨 CSS | 💛 JavaScript | 🐍 Python | 💻 VS Code | ✒️ Sublime Text
 
 ## 📜 Сертификация
 
