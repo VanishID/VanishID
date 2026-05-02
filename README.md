@@ -60,4 +60,4 @@ Telegram-бот для проверки и форматирования JSON. П
 ## 📞 Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-@IvanD_QA-blue?style=for-the-badge&logo=telegram)](https://t.me/IvanD_QA)
 [![Email](https://img.shields.io/badge/Email-deputatovivan272%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:deputatovivan272@gmail.com)
-[![Сайт](https://img.shields.io/badge/Сайт-vanishid.github.io-6C3BFF?style=for-the-badge&logo=google-chrome)](https://vanishid.github.io) Добавь еще GraphQL, gRpc, WebSocket, Gitlab CI/CD со значками
+[![Сайт](https://img.shields.io/badge/Сайт-vanishid.github.io-6C3BFF?style=for-the-badge&logo=google-chrome)](https://vanishid.github.io)
