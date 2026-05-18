@@ -16,7 +16,7 @@
 **QA Studio – Базовый курс по Quality Assurance (139 часов)**
 
 [Сертификат ENG](https://github.com/user-attachments/assets/513dc7e0-594e-4e2c-a87b-06b8f0937b9f)
-
+[Сертификат RUS](https://github.com/user-attachments/assets/965650ee-4457-4016-8549-54517a86f2ce)
 Пройденные модули:
 - 🏗️ Клиент-серверная архитектура (15 ч)
 - 🌐 Тестирование веб-приложений (12 ч)
