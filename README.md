@@ -35,6 +35,8 @@
 
 [Сертификат ENG](https://github.com/user-attachments/assets/e286e810-cb54-4a22-b5ce-02e39abb9429)
 
+[Сертификат RUS](https://github.com/user-attachments/assets/b1cf8b05-4bee-4838-a75e-d1b10f7bf3f8)
+
 Пройденные модули (дополнительно к базовому курсу):
 - 📱 Тестирование мобильных приложений (16 ч)
 - 🐧 Командная строка Linux (12 ч)
