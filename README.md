@@ -15,7 +15,7 @@
 
 **QA Studio – Базовый курс по Quality Assurance (139 часов)**
 
-[Сертификат](https://github.com/user-attachments/assets/513dc7e0-594e-4e2c-a87b-06b8f0937b9f)
+[Сертификат ENG](https://github.com/user-attachments/assets/513dc7e0-594e-4e2c-a87b-06b8f0937b9f)
 
 Пройденные модули:
 - 🏗️ Клиент-серверная архитектура (15 ч)
@@ -31,7 +31,7 @@
 
 **QA Studio – Курс «Инженер по тестированию» (269 часов)**
 
-[Сертификат](https://github.com/user-attachments/assets/e286e810-cb54-4a22-b5ce-02e39abb9429)
+[Сертификат ENG](https://github.com/user-attachments/assets/e286e810-cb54-4a22-b5ce-02e39abb9429)
 
 Пройденные модули (дополнительно к базовому курсу):
 - 📱 Тестирование мобильных приложений (16 ч)
